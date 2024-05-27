@@ -1,5 +1,6 @@
 # 6800smartphoneagent
 
+
 ## Requirements
 
 * python 3.10 and above
@@ -8,6 +9,7 @@
   <br>
 * And run the code below to install requirements
 ```bash
+git clone https://github.com/QwenLM/Qwen-VL.git
 pip install -r requirements.txt
 ```
 ## Test results
