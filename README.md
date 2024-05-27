@@ -10,3 +10,6 @@
 ```bash
 pip install -r requirements.txt
 ```
+## Test results
+
+For better testing please run test_result.ipynb.
