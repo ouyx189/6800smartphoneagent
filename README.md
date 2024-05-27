@@ -9,9 +9,13 @@
   <br>
 * And run the code below to install requirements
 ```bash
+git clone https://github.com/ouyx189/6800smartphoneagent.git
+cd 6800smartphoneagent
 pip install -r requirements.txt
 git clone https://github.com/QwenLM/Qwen-VL.git
-
+cd Qwen-VL
+wget https://huggingface.co/datasets/xouyang467/6800smartphoneagent/resolve/main/phoneagent.zip
+unzip phoneagent.zip
 ```
 ## Test results
 
